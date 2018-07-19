@@ -1,0 +1,12 @@
+#back {
+background: url(../assets/bg-pattern.png),linear-gradient(to right, #e24a4a , purple);
+}
+
+.badge-link {
+  height: 60px;
+  margin: 10px;
+}
+
+.section-heading {
+margin: 10px;
+}
